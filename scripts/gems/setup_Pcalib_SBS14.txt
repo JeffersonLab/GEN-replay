@@ -1,0 +1,42 @@
+/Users/puckett/GMN_ROOTFILES/SBS14/e1209019_fullreplay_13312*.root
+/Users/puckett/GMN_ROOTFILES/SBS14/e1209019_fullreplay_13313*.root
+/Users/puckett/GMN_ROOTFILES/SBS14/e1209019_fullreplay_13244*.root
+/Users/puckett/GMN_ROOTFILES/SBS14/e1209019_fullreplay_13379*.root
+endlist
+bb.tr.n==1&&bb.ps.e>0.2&&abs(bb.tr.vz)<.08&&bb.gem.track.nhits>3&&abs(bb.etot_over_p-0.96)<0.25&&sbs.hcal.e>0.1&&bb.ps.e+bb.sh.e>1.6
+endcut
+order 1
+dEdx 0.00574
+dEdx_Al 0.0021
+ebeam 5.965
+bbtheta 46.5 
+sbstheta 17.3
+hcaldist 14.0
+Ltgt 15.0
+rho_tgt 0.072
+celldiameter 4.064
+usehcalcut 1
+dx0 0.797
+dy0 0.0
+dxsigma 0.059
+dysigma 0.056
+GEMpitch 10.0
+#fix_pth0 1
+#fix_pthx 1
+fix_pth0 0
+fix_pthx 0
+#pth0 0.274932
+#pthx 0.101809
+bbdist 1.84787
+A_pth0 0.28982
+B_pth0 1.15051
+C_pth0 0.0
+Wmin 0.2
+Wmax 1.2
+dpel_min -0.01
+dpel_max 0.08
+useAlShield 1
+oldcoeffs newfit_sbs14.dat
+fit_thtgt_min -0.14
+fit_thtgt_max 0.12
+endconfig

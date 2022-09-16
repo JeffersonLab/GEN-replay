@@ -1,0 +1,39 @@
+#/Users/puckett/GMN_ROOTFILES/SBS7/e1209019_fullreplay_*.root
+#/volatile/halla/sbs/sbs-gmn/GMN_REPLAYS/pass0/SBS7/LD2/rootfiles/e1209019_*_1200*.root
+/volatile/halla/sbs/sbs-gmn/GMN_REPLAYS/pass0/SBS7/LD2/rootfiles/e1209019_*.root
+#/volatile/halla/sbs/sbs-gmn/GMN_REPLAYS/pass0/SBS7/LH2/rootfiles/e1209019_*.root
+endlist
+bb.tr.n==1&&bb.ps.e>0.2&&abs(bb.etot_over_p-1.02)<=0.25&&abs(bb.tr.vz)<0.08&&bb.ps.e+bb.sh.e>2.0&&sbs.hcal.e>0.1
+endcut
+order 2
+dEdx 0.00574
+dEdx_Al 0.0021
+ebeam 7.908
+bbtheta 40.0
+sbstheta 16.0
+hcaldist 14.0
+Ltgt 15.0
+rho_tgt 0.072
+celldiameter 4.6
+usehcalcut 1
+dx0 -0.749
+dy0 0.028
+dxsigma 0.051
+dysigma 0.042
+GEMpitch 10.0
+fix_pth0 1
+fix_pthx 1
+pth0 0.274932
+pthx 0.101809
+bbdist 1.84896
+Wmin 0.6
+Wmax 1.2
+dpel_min -0.05
+dpel_max 0.05
+useAlShield 0
+oldcoeffs newfit_sbs7.dat
+fit_thtgt_min -0.15
+fit_thtgt_max 0.12
+hcalcoordsys 0
+sbsfield 0.85
+endconfig

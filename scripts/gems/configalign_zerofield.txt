@@ -1,0 +1,39 @@
+# list of files:
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11150_stream0_seg0_0.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11150_stream0_seg1_1.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11150_stream0_seg2_2.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11150_stream0_seg3_3.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11150_stream0_seg4_4.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11153_stream0_seg0_0.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11153_stream0_seg1_1.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11153_stream0_seg2_2.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11153_stream0_seg3_3.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS1_OPTICS/rootfiles/gmn_replayed_11153_stream0_seg4_4.root
+#gmn_replayed_11150_stream0_seg0_0.root
+#gmn_replayed_11150_stream0_seg1_1.root
+#gmn_replayed_11150_stream0_seg2_2.root
+#gmn_replayed_11150_stream0_seg3_3.root
+#gmn_replayed_11150_stream0_seg4_4.root
+#gmn_replayed_11153_stream0_seg0_0.root
+#gmn_replayed_11153_stream0_seg1_1.root
+#gmn_replayed_11153_stream0_seg2_2.root
+#gmn_replayed_11153_stream0_seg3_3.root
+#gmn_replayed_11153_stream0_seg4_4.root
+endlist
+#configuration info:
+prefix bb.gem
+#GEMX0 -0.1614
+GEMX0 -0.2
+GEMY0 0.03
+GEMZ0 3.00
+# from survey:
+XOFFSIEVE 0.00381
+YOFFSIEVE -0.00135
+#GEMtheta 10.22
+GEMtheta 8.8
+GEMphi 180.5
+ZSIEVE 1.477
+endconfig
+# global cut:
+bb.gem.track.ntrack==1&&bb.gem.track.chi2ndf<30.&&bb.ps.e>=0.15&&bb.ps.e+bb.sh.e>0.4
+endcut

@@ -1,0 +1,13 @@
+# put names of root files here:
+
+endlist
+prefix bb.gem
+GEMX0 -0.1614
+GEMY0 0.0
+GEMZ0 2.9621
+GEMtheta 10.22
+GEMphi 180.0
+ZSIEVE 1.4636
+endconfig 
+#define any global cuts here; For example: bb.gem.track.ntrack==1&&bb.gem.track.nhits>=4&&bb.gem.track.chi2ndf<100
+endcut

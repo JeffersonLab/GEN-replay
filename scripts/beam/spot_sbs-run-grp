@@ -1,0 +1,182 @@
+#!/bin/bash
+
+# spot++ for SBS 
+
+#_______________________________________________________________________________
+# variables we'll need
+# working directory and experiment name 
+currentdir=$PWD
+exp=$EXPERIMENT
+# file prefixes and names 
+# rawDataPath=/adaq1/data1 
+# rawDataPath=/adaq1/data1/sbs
+rawDataPath=/adaq1/data1/sbs
+# spot_dir="/chafs1/work1/spot"
+# new, temporary (May 19, 2021)
+spot_dir=/adaq1/work1/adaq
+# fileprefix=prexLHRS
+fileprefix=lhrs_trigtest
+CFILE="" 
+# run number, event limits 
+runnum=0
+FIRST=1
+LAST=50000
+#_______________________________________________________________________________
+function print_help(){
+    echo "---------------------- Usage --------------------------"
+    echo "spot_SBS "
+    echo "->   standard plots from the last coda run"
+    echo "spot_SBS help "
+    echo "->   prints this message"
+    echo "spot_SBS #### "
+    echo "->   standard plots from run ####"
+    echo "spot_SBS last #1 #2 "
+    echo "->   plots from last coda run, using events from #1 to #2"
+    echo "spot_SBS #### #1 #2 "
+    echo "->   plots from coda run ####, using events from #1 to #2"
+    echo "in all cases a new root file is generated, overwriting "
+    echo "the previous one."
+    echo "please send comments to flay@jlab.org"
+    echo "-------------------------------------------------------"
+}
+#_______________________________________________________________________________
+function print_vars(){
+   echo "---------------------- Variables ----------------------"
+   echo "EXP   = $exp"
+   echo "FIRST = ${FIRST}"
+   echo "LAST  = ${LAST}"
+   echo "CFILE = ${CFILE}"
+   echo "PWD   = ${currentdir}"
+   echo "-------------------------------------------------------"
+}
+#_______________________________________________________________________________
+function check_file(){
+    local fn=$1
+    # check if the file exists
+    if [ ! -f $fn ]
+    then
+	echo "ERROR: no CODA files for path $fn"
+	exit
+    fi
+    # assign to CFILE if exists and is not empty 
+    if [ -s $fn ]
+    then
+        echo "Found $fn"
+        CFILE=$fn
+    else
+        echo "ERROR: $fn does not exist or is empty"
+        exit
+    fi
+}
+#_______________________________________________________________________________
+function set_event_lim(){
+   local a1=$1 
+   local a2=$2 
+   if [ -z $a1 ]     # argument 1 is null 
+   then
+      FIRST=1
+      LAST=50000
+   else
+      if [ -z $a2 ]  # argument 2 is null
+      then
+         FIRST=1
+         LAST=$a1
+      else           # argument 2 is NOT null 
+         FIRST=$a1
+         LAST=$a2
+      fi
+   fi
+}
+#_______________________________________________________________________________
+function yes_or_no(){
+  while true; do
+    read -p "$* [y/n]: " yn
+    case $yn in
+      [Yy]*) return 0 ;;
+      [Nn]*) echo "No entered" ; return 1 ;;
+    esac
+  done
+}
+#_______________________________________________________________________________
+function define_paths(){
+   # set up SBS environment
+   echo "Setting up SBS environment..." 
+   source /adaqfs/home/a-onl/sbs/sbs_devel/install/bin/sbsenv.sh
+   # replay directory 
+   export SBS_REPLAY=/adaqfs/home/a-onl/sbs/sbs_devel/SBS-replay
+   # point to correct DB location 
+   export DB_DIR=${SBS_REPLAY}/DB
+   # location to execute beam replay & plot data   
+   RASTER_PATH=~/sbs/beam/raster
+   PLOT_PATH=${SBS_REPLAY}/scripts/beam
+   echo "SBS         = ${SBS}" 
+   echo "SBS_REPLAY  = ${SBS_REPLAY}"
+   echo "DB_DIR      = ${DB_DIR}"
+   echo "RASTER_PATH = ${RASTER_PATH}"
+   echo "PLOT_PATH   = ${PLOT_PATH}"
+   echo "--> Done!"
+}
+#_______________________________________________________________________________
+# main 
+
+# parse command line input 
+case $1 in 
+   "" | "last")
+      runnum=`cat ~adaq/datafile/rcRunNumberL`
+      fn=${rawDataPath}/${fileprefix}_${runnum}.evio.0
+      check_file $fn
+      set_event_lim $2 $3    
+      ;;
+   "help" | "HELP" )
+      print_help
+      exit;;
+   * )
+      # anything else, check set up input 
+      runnum=$1
+      fn=${rawDataPath}/${fileprefix}_${1}.evio.0
+      check_file $fn
+      set_event_lim $2 $3
+      ;;   
+esac
+
+# define/update paths to run spot++
+define_paths
+
+# move to the raster directory
+cd ${RASTER_PATH} 
+echo "Moved to $PWD"
+
+# print_vars
+# exit 
+# rm -f rastersize.root
+
+# replay data 
+analyzer -b -q 'replay_spot.C("'$CFILE'",'$runnum','$FIRST','$LAST',"rastersize.root")'
+# plot the data 
+analyzer -b -q ${PLOT_PATH}/'plot_raster.C("'$CFILE'",'$runnum','$FIRST','$LAST',"rastersize.root")'
+
+RootFILE=L${runnum}".root"
+echo "spot_dir = ${spot_dir}"
+echo "pwd      = $PWD"
+ls -la rastersize.root
+ls -la FADC_${exp}_$runnum.pdf 
+
+# move files to their final locations
+mv rastersize.root ${spot_dir}/$RootFILE
+mv FADC_${exp}_$runnum.pdf ${spot_dir}/.
+
+echo =================
+echo "DONE. PDFs and ROOTFILE are stored at ${spot_dir}"
+echo "RUN : ${runnum}"
+echo =================
+cd $currentdir
+
+# evince ${spot_dir}/FADC_${exp}_$runnum.pdf &
+
+yes_or_no "Upload these plots to logbook HALOG? " && \
+/site/ace/certified/apps/bin/logentry \
+    --logbook "HALOG" \
+    --tag Autolog \
+    --title "Spot check using Left HRS run ${runnum}" \
+    --attach ${spot_dir}/FADC_${exp}_${runnum}.pdf
+

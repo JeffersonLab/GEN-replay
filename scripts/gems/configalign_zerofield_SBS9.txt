@@ -1,0 +1,47 @@
+# list of files:
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg0_0.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg10_10.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg11_11.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg12_12.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg13_13.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg14_14.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg15_15.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg1_1.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg2_2.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg3_3.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg4_4.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg5_5.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg6_6.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg7_7.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg8_8.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13669_stream0_seg9_9.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg0_0.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg10_10.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg11_11.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg1_1.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg2_2.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg3_3.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg4_4.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg5_5.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg6_6.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg7_7.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg8_8.root
+/Users/puckett/GMN_ROOTFILES/SBS9/e1209019_fullreplay_13671_stream0_seg9_9.root
+endlist
+#configuration info:
+prefix bb.gem
+#GEMX0 -0.1614
+GEMX0 -0.205
+GEMY0 0.04
+GEMZ0 2.70
+# from survey:
+XOFFSIEVE 0.00381
+YOFFSIEVE -0.00135
+#GEMtheta 10.22
+GEMtheta 8.8
+GEMphi 180.0
+ZSIEVE 1.19
+endconfig
+# global cut:
+bb.gem.track.ntrack==1&&bb.gem.track.chi2ndf<30.&&bb.ps.e>=0.2&&bb.ps.e+bb.sh.e>0.3&&bb.ps.e+bb.sh.e<2.4
+endcut

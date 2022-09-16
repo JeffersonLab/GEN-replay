@@ -1,0 +1,42 @@
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13549_*.root
+endlist
+bb.tr.n==1&&bb.ps.e>0.2&&abs(bb.tr.vz)<0.08&&bb.gem.track.nhits>3&&abs(bb.etot_over_p-1.02)<0.21&&sbs.hcal.e>0.05&&bb.ps.e+bb.sh.e>3.0
+endcut
+order 1
+dEdx 0.00574
+dEdx_Al 0.0021
+ebeam 5.965
+bbtheta 26.5
+sbstheta 29.4
+hcaldist 11.0
+Ltgt 15.0
+rho_tgt 0.072
+celldiameter 4.064
+usehcalcut 1
+dx0 -0.495
+dy0 -0.0381
+dxsigma 0.2
+dysigma 0.2
+GEMpitch 10.0
+#fix_pth0 1
+#fix_pthx 1
+fix_pth0 0
+fix_pthx 0
+#pth0 0.274932
+#pthx 0.101809
+bbdist 1.97473
+A_pth0 0.28982
+B_pth0 1.15051
+C_pth0 0.0
+Wmin 0.7
+Wmax 1.2
+dpel_min -0.04
+dpel_max 0.04
+useAlShield 1
+oldcoeffs newfit_sbs8.dat
+fit_thtgt_min -0.12
+fit_thtgt_max 0.1
+hcalcoordsys 0
+sbsfield 1.0
+sbsmaxfield 1.26
+endconfig

@@ -1,0 +1,44 @@
+#/Users/puckett/GMN_ROOTFILES/SBS7/e1209019_fullreplay_*.root
+/Users/puckett/GMN_ROOTFILES/SBS11/e1209019_fullreplay_123*.root
+/Users/puckett/GMN_ROOTFILES/SBS11/e1209019_fullreplay_124*.root
+/Users/puckett/GMN_ROOTFILES/SBS11/e1209019_fullreplay_127*.root
+/Users/puckett/GMN_ROOTFILES/SBS11/e1209019_fullreplay_129*.root
+/Users/puckett/GMN_ROOTFILES/SBS11/e1209019_fullreplay_130*.root
+endlist
+bb.tr.n==1&&bb.ps.e>0.2&&abs(bb.etot_over_p-0.95)<=0.3&&abs(bb.tr.vz)<0.08&&bb.ps.e+bb.sh.e>1.7&&sbs.hcal.e>0.1
+endcut
+order 2
+dEdx 0.00574
+dEdx_Al 0.0021
+ebeam 9.859
+bbtheta 42.0
+sbstheta 13.3
+sbsdist 2.25
+hcaldist 14.5
+Ltgt 15.0
+rho_tgt 0.072
+celldiameter 4.6
+usehcalcut 1
+dx0 -0.69
+dy0 0.002
+dxsigma 0.045
+dysigma 0.042
+GEMpitch 10.0
+fix_pth0 1
+fix_pthx 1
+pth0 0.274932
+pthx 0.101809
+bbdist  1.55146
+Wmin 0.4
+Wmax 1.6
+dpel_min -0.06
+dpel_max 0.05
+useAlShield 0
+oldcoeffs newfit_sbs11.dat
+fit_thtgt_min -0.17
+fit_thtgt_max 0.12
+hcalcoordsys 0
+hcalvoff 0.35
+sbsfield 1.0
+sbsmaxfield 1.26
+endconfig

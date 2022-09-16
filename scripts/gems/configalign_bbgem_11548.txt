@@ -1,0 +1,181 @@
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg0_0.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg10_10.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg11_11.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg1_1.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg12_12.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg13_13.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg14_14.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg15_15.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg16_16.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg17_17.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg18_18.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg19_19.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg20_20.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg21_21.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg22_22.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg2_2.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg23_23.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg24_24.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg25_25.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg26_26.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg27_27.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg28_28.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg29_29.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg30_30.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg31_31.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg32_32.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg33_33.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg3_3.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg34_34.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg35_35.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg36_36.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg37_37.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg38_38.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg39_39.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg40_40.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg41_41.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg42_42.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg43_43.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg44_44.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg4_4.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg45_45.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg46_46.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg47_47.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg48_48.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg49_49.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg50_50.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg51_51.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg52_52.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg53_53.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg54_54.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg55_55.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg5_5.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg56_56.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg57_57.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg58_58.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg59_59.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg60_60.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg61_61.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg62_62.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg63_63.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg64_64.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg65_65.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg66_66.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg6_6.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg67_67.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg68_68.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg7_7.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg8_8.root
+/volatile/halla/sbs/puckett/GMN_REPLAYS/SBS4/rootfiles/gmn_replayed_11548_stream0_seg9_9.root
+endlist
+prefix bb.gem
+nlayers 5
+nmodules 12
+mod_layer 0 1 1 1  2 3 3 3 4 4 4 4 
+fixmod 1 0 0 0 0 0 0 1 0 0 0 0   
+refmod -1
+# module positions and orientations:
+#mod_x0               0          0.535              0         -0.535              0          0.535              0         -0.535         -0.768         -0.256          0.256          0.768
+#mod_y0               0              0              0              0              0              0              0              0              0              0              0              0
+#mod_z0               0         0.1288         0.1288         0.1288         0.2781         0.4112         0.4112         0.4112           1.57          1.534           1.57          1.534
+#mod_ax               0              0              0              0              0              0              0              0              0              0              0              0
+#mod_ay               0              0              0              0              0              0              0              0              0              0              0              0
+#mod_az               0              0              0              0              0              0              0              0              0              0              0              0
+#mod_x0                0           0.535               0          -0.535     -0.00783711           0.535               0          -0.535       -0.768345       -0.253977        0.257905        0.767861
+#mod_y0                0               0               0               0      0.00358294               0               0               0     -1.4124e-05     0.000180692     -0.00105713     -0.00951299
+#mod_z0                0          0.1288          0.1288          0.1288        0.278822          0.4112          0.4112          0.4112         1.57204         1.53403         1.57233          1.5308
+#mod_ax                0               0               0               0               0               0               0               0               0               0               0               0
+#mod_ay                0               0               0               0               0               0               0               0               0               0               0               0
+#mod_az                0               0               0               0               0               0               0               0               0               0               0               0
+#
+#mod_x0               0          0.535              0         -0.535    -0.00821202          0.535              0         -0.535      -0.768602      -0.253387        0.25814       0.768809
+#mod_y0               0              0              0              0     0.00406697              0              0              0     0.00189088    -0.00198992    -0.00556479     -0.0121981
+#mod_z0               0         0.1288         0.1288         0.1288       0.278831         0.4112         0.4112         0.4112        1.57228        1.53365        1.57406        1.53247
+#mod_ax               0              0              0              0    0.000735887              0              0              0     0.00501183     0.00115328     0.00311267      -0.010695
+#mod_ay               0              0              0              0   -0.000137716              0              0              0    0.000867509     -0.0026525    -0.00188543    -0.00666837
+#mod_az               0              0              0              0    -0.00447958              0              0              0   -0.000292826    -0.00211481    -0.00208408      0.0031884
+#mod_x0               0          0.535              0         -0.535    -0.00902501          0.535              0         -0.535      -0.767349      -0.253518        0.25784       0.769169
+#mod_y0               0              0              0              0     0.00449594              0              0              0     0.00181506    -0.00201252    -0.00698227     -0.0117417
+#mod_z0               0         0.1288         0.1288         0.1288       0.278757         0.4112         0.4112         0.4112        1.57119        1.53283        1.57467        1.53331
+#mod_ax               0              0              0              0    -0.00010519              0              0              0     0.00241662     -0.0021262      0.0010083      -0.012809
+#mod_ay               0              0              0              0   -0.000563564              0              0              0    -0.00407907     -0.0036444    -0.00151934    -0.00966695
+#mod_az               0              0              0              0    -0.00516546              0              0              0    -0.00277334    -0.00387026    -0.00329254   -0.000251178
+#mod_x0               0          0.535              0         -0.535    -0.00913963          0.535              0         -0.535      -0.766813      -0.253846       0.257561       0.769244
+#mod_y0               0              0              0              0      0.0045326              0              0              0     0.00180247     -0.0020081    -0.00737937     -0.0116252
+#mod_z0               0         0.1288         0.1288         0.1288       0.278676         0.4112         0.4112         0.4112        1.57071        1.53264         1.5745        1.53332
+#mod_ax               0              0              0              0   -0.000183633              0              0              0     0.00140368    -0.00320963     0.00012962     -0.0149729
+#mod_ay               0              0              0              0   -0.000516826              0              0              0    -0.00414388    -0.00269792    -0.00153731     -0.0114369
+#mod_az               0              0              0              0     -0.0052592              0              0              0    -0.00352791    -0.00447229    -0.00360223    -0.00153802
+
+#mod_x0                0        0.529941     -0.00498128       -0.541131     -0.00812724           0.535               0          -0.535       -0.766649       -0.253812        0.257675        0.769444
+#mod_y0                0     -0.00987001     -0.00696114     -0.00372498      0.00633126               0               0               0      0.00221175     -0.00193328     -0.00738393      -0.0110879
+#mod_z0                0        0.132255        0.130003         0.13053        0.278412          0.4112          0.4112          0.4112         1.57105         1.53226         1.57393         1.53267
+#mod_ax                0               0               0               0    -0.000183633               0               0               0      0.00140368     -0.00320963      0.00012962      -0.0149729
+#mod_ay                0               0               0               0    -0.000516826               0               0               0     -0.00414388     -0.00269792     -0.00153731      -0.0114369
+#mod_az                0               0               0               0      -0.0052592               0               0               0     -0.00352791     -0.00447229     -0.00360223     -0.00153802
+
+# new starting alignment based on runs 10385 and 10408
+#mod_x0               0       0.529885    -0.00505968      -0.541103    -0.00808782          0.535              0         -0.535      -0.766594      -0.253884        0.25759       0.769493
+#mod_y0               0     -0.0098546    -0.00686753    -0.00331867     0.00632119              0              0              0     0.00222772    -0.00199037    -0.00747815     -0.0110257
+#mod_z0               0       0.132296        0.13001       0.130722       0.278401         0.4112         0.4112         0.4112        1.57114        1.53204        1.57378         1.5326
+#mod_ax               0    0.000341415    0.000207925    -0.00334685   -0.000197278              0              0              0    0.000767524    -0.00338341    0.000168773     -0.0141616
+#mod_ay               0     -0.0041964    0.000617099      0.0021539   -8.34635e-05              0              0              0    -0.00438389    -0.00292744    -0.00160964     -0.0109851
+#mod_az               0    -0.00212476    -0.00608491    -0.00634825    -0.00503615              0              0              0     -0.0038482    -0.00479295    -0.00386347     -0.0024241
+
+# 
+#mod_x0                0        0.530205     -0.00468151       -0.540837     -0.00735731        0.525404     -0.00933209          -0.535       -0.764611       -0.250396         0.25759        0.769493
+#mod_y0                0      0.00117908      0.00452314      0.00827517      0.00580011     0.000641015      0.00166302               0     0.000180134     -0.00235741     -0.00747815      -0.0110257
+#mod_z0                0        0.132083        0.129905        0.130968        0.278026        0.415252        0.415284          0.4112         1.56954         1.52973         1.57378          1.5326
+#mod_ax                0    -0.000388281    -0.000453999     -0.00361499     0.000198969      0.00214961      0.00508586               0     -0.00384713     -0.00644043     0.000168773      -0.0141616
+#mod_ay                0     -0.00433576     0.000794807       0.0027864    -6.69261e-05     0.000708043       0.0030426               0     -0.00645333     -0.00401856     -0.00160964      -0.0109851
+#mod_az                0     -0.00305204     -0.00639645     -0.00645599     -0.00467586     -0.00339882    -0.000818161               0     -0.00744828     -0.00701594     -0.00386347      -0.0024241
+#
+#mod_x0                0        0.530168     -0.00471732        -0.54087     -0.00742031         0.52531      -0.0094332          -0.535       -0.764494       -0.250696         0.25759        0.769493
+#mod_y0                0      0.00118968      0.00452636      0.00827602      0.00581033     0.000697179      0.00166587               0    -0.000119813     -0.00194537     -0.00747815      -0.0110257
+#mod_z0                0        0.132142        0.129966        0.131034        0.278126        0.415381        0.415475          0.4112          1.5695         1.53011         1.57378          1.5326
+#mod_ax                0    -0.000388281    -0.000453999     -0.00361499     0.000198969      0.00214961      0.00508586               0     -0.00384713     -0.00644043     0.000168773      -0.0141616
+#mod_ay                0     -0.00433576     0.000794807       0.0027864    -6.69261e-05     0.000708043       0.0030426               0     -0.00645333     -0.00401856     -0.00160964      -0.0109851
+#mod_az                0     -0.00305204     -0.00639645     -0.00645599     -0.00467586     -0.00339882    -0.000818161               0     -0.00744828     -0.00701594     -0.00386347      -0.0024241
+
+#mod_x0               0       0.530161    -0.00472469      -0.540876    -0.00744453       0.525269    -0.00949246         -0.535       -0.76439      -0.250867        0.25759       0.769493
+#mod_y0               0     0.00122419     0.00450983     0.00822546      0.0057906    0.000809933      0.0016568              0   -0.000293366    -0.00170947    -0.00747815     -0.0110257
+#mod_z0               0       0.132135       0.130035       0.131145       0.278257       0.415358       0.415637         0.4112        1.56941        1.53025        1.57378         1.5326
+#mod_ax               0    -0.00010121    -0.00031278    -0.00347986    0.000462221      0.0026948      0.0054366              0    -0.00396497     -0.0060197    0.000168773     -0.0141607
+#mod_ay               0    -0.00412649     0.00090388     0.00289856    0.000210861     0.00101118     0.00351449              0    -0.00508799    -0.00307252    -0.00161028     -0.0109496
+#mod_az               0    -0.00286404    -0.00630879    -0.00637807    -0.00449379    -0.00299392   -0.000538542              0    -0.00792041     -0.0069361    -0.00386347    -0.00242396
+
+#mod_x0                0        0.530036     -0.00483449       -0.540963     -0.00767963        0.524848      -0.0100772          -0.535       -0.764348       -0.252066        0.258335        0.770862
+#mod_y0                0      0.00122827      0.00453714      0.00829652      0.00564461     0.000341885      0.00118639               0     0.000548579     -0.00200976     -0.00786037      -0.0117937
+#mod_z0                0        0.132308        0.130171        0.131103        0.278518        0.415606        0.416113          0.4112         1.56999         1.53107         1.57402         1.53366
+#mod_ax                0     0.000155191    -0.000348256     -0.00303808    -6.83026e-05      0.00301014      0.00534114               0     -0.00185796     -0.00369984     0.000499834     -0.00972791
+#mod_ay                0     -0.00417407     0.000726424      0.00209885     0.000293945      0.00069432      0.00324915               0     -0.00392097     -0.00235352     -0.00310544     -0.00701198
+#mod_az                0     -0.00271144     -0.00629717      -0.0065011      -0.0048183     -0.00285801    -0.000342373               0     -0.00672761       -0.005401     -0.00457064     -0.00419229
+
+#mod_x0                0        0.530038     -0.00483283       -0.540962     -0.00767828        0.524852      -0.0100782          -0.535       -0.764342       -0.252177        0.258388         0.77096
+#mod_y0                0      0.00122495       0.0045381      0.00830088      0.00564581     0.000330329      0.00118784               0     0.000624095     -0.00205927     -0.00792858      -0.0118648
+#mod_z0                0        0.132299        0.130172        0.131109         0.27852        0.415587        0.416117          0.4112         1.57004         1.53113         1.57405         1.53377
+#mod_ax                0     0.000140586    -0.000350329     -0.00304183    -7.45498e-05      0.00297117      0.00534209               0     -0.00172649     -0.00356808     0.000520398     -0.00911951
+#mod_ay                0     -0.00413483     0.000742704      0.00209932     0.000316521     0.000737962      0.00327791               0     -0.00382416     -0.00234007     -0.00328343     -0.00653987
+#mod_az                0      -0.0027293     -0.00630605     -0.00650155      -0.0048307     -0.00289155     -0.00035311               0     -0.00664429     -0.00530558     -0.00463372     -0.00430943
+
+mod_x0               0       0.530051    -0.00480635      -0.540924    -0.00755265       0.524909     -0.0100473         -0.535      -0.764434      -0.252584       0.258444       0.770759
+mod_y0               0   -0.000953564     0.00225135     0.00597744     0.00626865     0.00367407     0.00463831              0    0.000647858    -0.00325424    -0.00907189     -0.0128109
+mod_z0               0       0.132367       0.130221       0.131187        0.27857       0.414892        0.41522         0.4112        1.57066        1.53116        1.57439        1.53309
+mod_ax               0    0.000471352    -0.00045642    -0.00300051   -2.99224e-05    0.000482338    0.000838739              0    -0.00111932    -0.00391586    -0.00113036    -0.00643637
+mod_ay               0    -0.00415492     0.00112522     0.00256362    0.000529109    -0.00100395     0.00390283              0    -0.00276322    -0.00215851    -0.00237114    -0.00405465
+mod_az               0    -0.00266624    -0.00632252    -0.00654753    -0.00505907    -0.00271646   -0.000445112              0    -0.00595776    -0.00539127    -0.00459369    -0.00465828
+
+
+# strip orientation angles:
+mod_uangle 150.0 180 180 180 150.0 180 180 180 0 0 0 0 
+mod_vangle -150.0 90 90 90 -150.0 90 90 90 -90 -90 -90 -90
+niter 1000
+minchi2change 2.e-4
+minposchange 1.e-6
+minanglechange 1.e-5
+offsetsonly 0
+sigma 0.15e-3
+NMAX 10000000
+endconfig
+bb.gem.track.chi2ndf<200&&bb.gem.track.ntrack==1&&bb.gem.track.nhits>=4&&bb.ps.e>0.1
+endcut

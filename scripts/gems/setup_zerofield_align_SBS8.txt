@@ -1,0 +1,78 @@
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg0_0.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg10_10.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg11_11.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg12_12.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg13_13.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg14_14.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg15_15.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg16_16.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg17_17.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg18_18.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg19_19.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg1_1.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg20_20.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg21_21.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg22_22.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg23_23.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg24_24.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg25_25.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg27_27.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg29_29.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg2_2.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg30_30.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg31_31.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg32_32.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg33_33.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg34_34.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg35_35.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg36_36.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg37_37.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg38_38.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg39_39.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg3_3.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg40_40.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg41_41.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg42_42.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg43_43.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg44_44.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg45_45.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg46_46.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg47_47.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg48_48.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg49_49.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg4_4.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg50_50.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg51_51.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg52_52.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg53_53.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg54_54.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg55_55.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg56_56.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg57_57.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg58_58.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg59_59.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg5_5.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg60_60.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg61_61.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg62_62.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg63_63.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg64_64.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg65_65.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg66_66.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg67_67.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg6_6.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg7_7.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg8_8.root
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13435_stream0_seg9_9.root
+endlist
+prefix bb.gem
+GEMX0 -0.213869
+GEMY0 0.0394128
+GEMZ0 3.12109
+X0SIEVE 0.0
+Y0SIEVE 0.0
+ZSIEVE 1.59027
+GEMtheta 8.82378
+GEMphi 179.406
+endconfig
+bb.tr.n==1&&bb.ps.e>0.2&&bb.ps.e+bb.sh.e>=2.0

@@ -1,0 +1,53 @@
+# list of files:
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg32_32.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg0_0.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg10_10.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg11_11.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg1_1.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg12_12.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg13_13.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg14_14.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg15_15.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg16_16.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg17_17.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg18_18.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg19_19.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg20_20.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg21_21.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg22_22.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg2_2.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg23_23.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg24_24.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg25_25.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg26_26.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg27_27.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg28_28.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg29_29.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg30_30.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg31_31.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg32_32.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg3_3.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg4_4.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg5_5.root	
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg6_6.root	
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg7_7.root	
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg8_8.root
+/adaqfs/home/a-onl/sbs/Rootfiles/gmn_replayed_12278_stream0_seg9_9.root
+endlist
+#configuration info:
+prefix bb.gem
+#GEMX0 -0.1614
+GEMX0 -0.2041
+GEMY0 0.0392
+GEMZ0 2.6996
+# from survey:
+XOFFSIEVE 0.00381
+YOFFSIEVE -0.00135
+#GEMtheta 10.22
+GEMtheta 8.71692
+GEMphi 179.078
+ZSIEVE 1.1957
+endconfig
+# global cut:
+bb.gem.track.ntrack==1&&bb.gem.track.chi2ndf<30.&&bb.ps.e>=0.4&&bb.ps.e+bb.sh.e>0.9&&abs(bb.tr.x+bb.tr.th*1.9-bb.sh.x)<=0.06&&abs(bb.tr.y+bb.tr.ph*1.9-bb.sh.y)<=0.06
+endcut

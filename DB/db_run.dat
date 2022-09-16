@@ -1,0 +1,163 @@
+# Sample run database
+--------[ 2017-07-26 17:50:14 ]
+
+ebeam = 11.0
+
+sbs.theta = -30
+sbs.pcentral = -1
+sbs.phi = 0
+sbs.colldist = 1.5
+sbs.off_x = 0
+sbs.off_y = 0
+sbs.off_z = 0
+
+bb.magdist = 1.55
+bb.theta    = 33.0                                                              
+bb.pcentral = 2.0 
+
+L.theta     = 30.0
+L.pcentral  = -1
+
+--------[ 2021-10-10 00:00:00 ] # SBS-1 kinematics for GMN:
+
+# The minimal required information in this file (for now) is the beam energy and
+# the spectrometer central angles and central momenta:
+
+ebeam = 1.916
+
+# as far as I can see only central angle and central momentum are required run parameters
+# for THaSpectrometer
+# note that pcentral is meaningless for SBS and BB, but as far as I know they are required for
+# THaSpectrometer, so I just set them to the momentum of elastically scattered electrons (protons) for
+# BB (SBS) respectively
+
+# SBS on beam right:
+sbs.theta = -33.5
+sbs.pcentral = 1.5
+
+# BB on beam left:
+bb.theta = 51.0
+bb.pcentral = 1.09
+bb.colldist = 1.4779
+bb.magdist = 1.8518 # from survey
+# bb.magdist = 1.85 # nominal
+# bb.magdist = 1.8470 # from zero-field alignment
+
+
+--------[ 2021-10-18 16:00:00 ] ## Starting SBS-4 kinematics for GMN
+
+ebeam = 3.7278
+
+sbs.theta = -31.9
+sbs.pcentral = 2.373 # elastic proton momentum
+
+# pcentral chosen for elastic
+# note BB field production setting is 750 A most of the time
+bb.theta = 36.0
+bb.pcentral = 2.122 
+# bb.magdist = 1.80 # nominal
+# bb.magdist = 1.7956 # from zero-field alignment
+bb.magdist = 1.7988 # from survey
+
+---------[ 2021-10-25 16:00:00 ] ## Starting SBS-5 kinematics for GMN (note we never took any real data here due to magnet "incident")
+
+ebeam = 7.38 # to be adjusted when we find out what the actual beam energy is according to HALLA:p
+
+sbs.theta = -24.7
+sbs.pcentral = 4.31
+
+# pcentral chosen for elastic:
+
+bb.theta = 27.5 
+bb.pcentral = 3.91
+bb.magdist = 1.90
+
+#LOL
+
+--------[ 2021-11-12 00:00:00 ] ## Starting SBS-7 kinematics for GMN:
+
+ebeam = 7.906
+
+sbs.pcentral = 6.2
+sbs.theta = -16.1
+
+bb.theta = 40.0 
+bb.pcentral = 2.67
+#bb.magdist = 1.85 # nominal
+bb.magdist = 1.84896 # from survey
+#bb.magdist = 1.86159 # from zero-field alignment
+
+--------[ 2021-11-23 00:00:00 ] ## starting SBS-11 kinematics for GMN
+
+ebeam = 9.859 
+sbs.theta = -13.3 
+sbs.pcentral = 8.1
+
+bb.theta = 42.0
+#bb.magdist = 1.55 # meters, nominal
+bb.magdist = 1.55146 # meters, from survey
+#bb.magdist = 1.5649 # meters, from zero-field alignment
+bb.pcentral = 2.67
+
+--------[ 2022-01-06 12:00:00 ] ## starting SBS-14 kinematics for GMN:
+
+ebeam = 5.9648
+sbs.theta = -17.3 # degrees
+sbs.pcentral = 4.8 # GeV
+
+# note: SBS distance = 2.25 m
+# note also: HCAL distance = 14.0 meters 
+
+bb.theta = 46.5 # degrees
+#bb.magdist = 1.85 # meters, nominal:
+#bb.magdist = 1.8784 # meters, from zero-field alignment
+bb.magdist = 1.84787 # meters, from survey
+bb.pcentral = 2.0 # GeV
+
+--------[ 2022-01-21 12:00:00 ] ## starting SBS-8 kinematics:
+
+ebeam = 5.9648
+sbs.theta = -29.9
+sbs.pcentral = 3.22
+
+# note HCAL distance = 11 m
+
+bb.theta = 26.5
+#bb.magdist = 2.00 # meters, nominal
+bb.magdist = 1.97473 # meters, according to survey
+#bb.magdist = 1.9594 # meters, according to straight-through analysis
+bb.pcentral = 3.6 # GeV
+
+--------[ 2022-02-01 12:00:00 ] ## starting SBS-9 kinematics:
+
+# very, very preliminary settings:
+
+ebeam = 4.015 # to be refined later
+sbs.theta = 22.5
+sbs.pcentral = 3.22 
+
+# note HCAL distance = 11 m
+
+bb.theta = 49.0
+#bb.magdist = 1.55: from survey or from nominal distance
+# new estimate for magnet distance based on zero-field alignment results for z sieve:
+# bb.magdist = 1.559
+bb.magdist = 1.550 # survey matches nominal, to within its precision
+bb.pcentral = 1.63
+
+---------[ 2022-09-01 00:00:00 ] # start of GEN-2 commissioning kinematics at 1-pass:
+
+# beam energy to be refined by HALLA:p once we start up:
+ebeam = 2.1
+
+sbs.theta = 34.7
+sbs.pcentral = 1.6
+# with tracking in SBS we will also need to add sbs magnet distance as a required parameter
+# sbs.magdist = 2.80 
+# sbs.hcaldist = 17.0 
+
+bb.theta = 47.5
+bb.pcentral = 1.22
+
+# to be refined from survey results later
+bb.magdist = 1.63

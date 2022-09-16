@@ -1,0 +1,10 @@
+/Users/puckett/GMN_ROOTFILES/SBS8/e1209019_fullreplay_13452*.root
+endlist
+prefix bb.gem
+nmodules 8
+fixtau 0
+tau0 56.0
+ttrig0 8.4
+endconfig
+bb.gem.track.chi2ndf<30&&bb.gem.track.ntrack==1&&bb.gem.track.nhits>3&&abs(bb.tr.vz)<0.08&&bb.ps.e>0.25
+endcut
