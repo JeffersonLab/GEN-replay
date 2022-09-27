@@ -5,6 +5,7 @@ ebeam = 11.0
 
 sbs.theta = -30
 sbs.pcentral = -1
+sbs.magdist = 2.25
 sbs.phi = 0
 sbs.colldist = 1.5
 sbs.off_x = 0
@@ -34,6 +35,7 @@ ebeam = 1.916
 # SBS on beam right:
 sbs.theta = -33.5
 sbs.pcentral = 1.5
+sbs.magdist = 2.25
 
 # BB on beam left:
 bb.theta = 51.0
@@ -50,6 +52,7 @@ ebeam = 3.7278
 
 sbs.theta = -31.9
 sbs.pcentral = 2.373 # elastic proton momentum
+sbs.magdist = 2.25
 
 # pcentral chosen for elastic
 # note BB field production setting is 750 A most of the time
@@ -65,6 +68,7 @@ ebeam = 7.38 # to be adjusted when we find out what the actual beam energy is ac
 
 sbs.theta = -24.7
 sbs.pcentral = 4.31
+sbs.magdist = 2.25
 
 # pcentral chosen for elastic:
 
@@ -80,6 +84,7 @@ ebeam = 7.906
 
 sbs.pcentral = 6.2
 sbs.theta = -16.1
+sbs.magdist = 2.25
 
 bb.theta = 40.0 
 bb.pcentral = 2.67
@@ -92,6 +97,7 @@ bb.magdist = 1.84896 # from survey
 ebeam = 9.859 
 sbs.theta = -13.3 
 sbs.pcentral = 8.1
+sbs.magdist = 2.25
 
 bb.theta = 42.0
 #bb.magdist = 1.55 # meters, nominal
@@ -104,6 +110,7 @@ bb.pcentral = 2.67
 ebeam = 5.9648
 sbs.theta = -17.3 # degrees
 sbs.pcentral = 4.8 # GeV
+sbs.magdist = 2.25
 
 # note: SBS distance = 2.25 m
 # note also: HCAL distance = 14.0 meters 
@@ -119,6 +126,7 @@ bb.pcentral = 2.0 # GeV
 ebeam = 5.9648
 sbs.theta = -29.9
 sbs.pcentral = 3.22
+sbs.magdist = 2.25
 
 # note HCAL distance = 11 m
 
@@ -135,6 +143,7 @@ bb.pcentral = 3.6 # GeV
 ebeam = 4.015 # to be refined later
 sbs.theta = 22.5
 sbs.pcentral = 3.22 
+sbs.magdist = 2.25
 
 # note HCAL distance = 11 m
 
@@ -153,7 +162,7 @@ ebeam = 2.1
 sbs.theta = 34.7
 sbs.pcentral = 1.6
 # with tracking in SBS we will also need to add sbs magnet distance as a required parameter
-# sbs.magdist = 2.80 
+sbs.magdist = 2.80 
 # sbs.hcaldist = 17.0 
 
 bb.theta = 47.5
